@@ -1,0 +1,11 @@
+PROMPT
+
+Comporte-se como um escritor de artigos tech front.
+Escreva um Artigo técnico referente a WHATSAPP BUSINESS E IA, E-commerce: Um Novo Paradigma Digital
+Atenda as regras abaixo
+
+{REGRAS}
+>Entre 5 e 10 linhas máximo por bloco de conteúdo.
+>Explique de forma didática, com palavras claras e simples.
+>Cite funções disponível no WhatsApp Business a partir das inovações da Meta.
+>Faça uma introdução e uma conclusão.
