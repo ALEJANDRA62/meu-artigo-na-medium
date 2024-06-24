@@ -46,9 +46,9 @@ A inovação da IA no WhatsApp Business está transformando o e-commerce. Empres
 
 ChatGPT : https://chatgpt.com/
 
-léxica.art : https://lexica.art/
+Léxica.art : https://lexica.art/
 
-remove bg  : https://www.remove.bg/pt-br
+Remove bg  : https://www.remove.bg/pt-br
 
 Easy-Resize.com : https://www.easy-resize.com/pt/
 
