@@ -43,10 +43,15 @@ Agora, as empresas podem:
 A inovação da IA no WhatsApp Business está transformando o e-commerce. Empresas oferecem atendimento automatizado, recomendações personalizadas e suporte eficiente. A adoção dessa tecnologia cresce rapidamente, impulsionando vendas e fidelizando clientes no cenário do comércio digital.
 
 ## Ferramentas utilizadas para a Criação do Artigo
+
 ChatGPT : https://chatgpt.com/
+
 léxica.art : https://lexica.art/
+
 remove bg  : https://www.remove.bg/pt-br
+
 Easy-Resize.com : https://www.easy-resize.com/pt/
+
 Medium : https://medium.com/
 
 ## “Para conhecer o artigo, leia aqui.”
