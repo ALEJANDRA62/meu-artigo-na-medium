@@ -1,5 +1,3 @@
-PROMPT
-
 Comporte-se como um escritor de artigos tech front.
 Escreva um Artigo técnico referente a WHATSAPP BUSINESS E IA, E-commerce: Um Novo Paradigma Digital
 Atenda as regras abaixo
