@@ -48,3 +48,8 @@ remove bg  : https://www.remove.bg/pt-br
 Easy-Resize.com : https://www.easy-resize.com/pt/
 Medium : https://medium.com/
 
+## “Para conhecer o artigo, leia aqui.”
+https://medium.com/@alejandratraverso/whatsapp-business-e-ia-92e7bd051122
+
+
+
